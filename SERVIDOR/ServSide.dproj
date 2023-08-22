@@ -52,7 +52,7 @@
 				<MainSource>MainSource</MainSource>
 			</DelphiCompile>
 			<DCCReference Include="MODEL\Servico.pas">
-				<Form>Form1</Form>
+				<Form>frm_principal</Form>
 			</DCCReference>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>

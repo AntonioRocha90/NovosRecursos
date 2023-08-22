@@ -2,13 +2,13 @@ program ServSide;
 
 uses
   Forms,
-  Servico in 'MODEL\Servico.pas' {Form1};
+  Servico in 'MODEL\Servico.pas' {frm_principal};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(Tfrm_principal, frm_principal);
   Application.Run;
 end.
