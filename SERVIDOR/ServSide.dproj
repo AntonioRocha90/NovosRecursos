@@ -37,8 +37,8 @@
 		<PropertyGroup Condition="'$(Cfg_1)'!=''">
 			<DCC_Optimize>false</DCC_Optimize>
 			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
-			<DCC_ExeOutput>..\ARQUIVOS\$(Config)\$(Platform)</DCC_ExeOutput>
-			<DCC_DcuOutput>..\ARQUIVOS\$(Config)\$(Platform)</DCC_DcuOutput>
+			<DCC_ExeOutput>..\ARQUIVOS\EXEC\</DCC_ExeOutput>
+			<DCC_DcuOutput>..\ARQUIVOS\DCU\</DCC_DcuOutput>
 			<DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
 		</PropertyGroup>
 		<PropertyGroup Condition="'$(Cfg_2)'!=''">
