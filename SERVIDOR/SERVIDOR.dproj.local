@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/08/22 15:15:48.258,=C:\Users\DonRocha\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/22 15:16:02.092,D:\PROJETOS\DELPHI\APRENDERAPAZ\SERVIDOR\Servico.pas=C:\Users\DonRocha\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/22 15:16:02.092,D:\PROJETOS\DELPHI\APRENDERAPAZ\SERVIDOR\Servico.dfm=C:\Users\DonRocha\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/22 15:16:50.591,D:\PROJETOS\DELPHI\APRENDERAPAZ\SERVIDOR\SERVIDOR.dproj=C:\Users\DonRocha\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/22 15:16:54.715,D:\PROJETOS\DELPHI\APRENDERAPAZ\SERVIDOR\Servico.pas=</Transaction>
+    <Transaction>2023/08/22 15:17:17.706,=D:\PROJETOS\DELPHI\APRENDERAPAZ\SERVIDOR\MODEL\Servico.pas</Transaction>
+  </Transactions>
+</BorlandProject>
