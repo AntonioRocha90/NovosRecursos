@@ -1,4 +1,4 @@
-program SERVIDOR;
+program ServSide;
 
 uses
   Forms,
